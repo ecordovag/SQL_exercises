@@ -47,7 +47,7 @@ COPY nyc_yellow_taxi_trips_2016_06_01 (
 	improvement_surcharge,
 	total_amount
 )
-FROM 'C:\Users\ecord\Documents\SQL_Beginners\sql_exercises\data\yellow_tripdata_2016_06_01.csv'
+FROM 'C:\YourDirectory\yellow_tripdata_2016_06_01.csv'
 WITH (FORMAT CSV, HEADER, DELIMITER ',');
 
 
