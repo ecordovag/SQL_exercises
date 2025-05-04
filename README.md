@@ -20,4 +20,4 @@ The SQL topics covered include:
 - Conditional logic with `CASE ... WHEN`
 - Subqueries
 - Common Table Expressions (CTEs)
-- Window Functions: `ROW_NUMBER()`, `DENSE_RANK()`
+- Window Functions: `ROW_NUMBER()`, `DENSE_RANK()`, `LAG()`
